@@ -1,0 +1,44 @@
+{
+  "organisation": "Tailspin Aerospace",
+  "review_date": "2026-11-13 09:00",
+  "previous_review": "2026-10-13",
+  "target_pct": 98,
+  "red_pct": 90,
+  "targets": {
+    "EDR": 99,
+    "ENCRYPTED": 99,
+    "MDM": 99
+  },
+  "checkin_days": 14,
+  "sensor_days": 7,
+  "exception_warning_days": 30,
+  "min_os": {
+    "windows": "10.0.22631",
+    "macos": "14.0"
+  },
+  "allowed_admins": [
+    "Administrator",
+    "Domain Admins",
+    "Device administrators"
+  ],
+  "epm_rule_users": 5,
+  "action_days": {
+    "red": 7,
+    "amber": 30
+  },
+  "owners": {
+    "MDM": "Endpoint team (M. Castro)",
+    "EDR": "Security operations (A. Larrea)",
+    "AV": "Security operations (A. Larrea)",
+    "ADMIN": "Endpoint team (M. Castro)",
+    "EPM": "Endpoint team (M. Castro)",
+    "OS": "Endpoint team (M. Castro)",
+    "ENCRYPTED": "Endpoint team (M. Castro)",
+    "KEY": "Endpoint team (M. Castro)",
+    "CHECKIN": "Service desk",
+    "COMPLIANT": "Endpoint team (M. Castro)",
+    "INVENTORY": "IT asset manager (R. Vidal)",
+    "EXCEPTIONS": "Security risk manager (I. Zubiri)",
+    "COVERAGE": "Head of IT (S. Prieto)"
+  }
+}

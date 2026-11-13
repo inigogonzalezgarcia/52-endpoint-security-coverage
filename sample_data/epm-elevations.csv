@@ -1,0 +1,86 @@
+Device,User,File name,Publisher,Elevation type,Result,Date
+TSA-MAD-L0025,gorka.arana@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-15 03:44
+TSA-MAD-W0014,elena.serrano@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-15 04:21
+TSA-MAD-L0026,iker.serrano@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-16 03:17
+TSA-MAD-L0025,gorka.arana@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-16 04:05
+TSA-BIO-L0003,leire.arana@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-16 07:35
+TSA-MAD-L0016,lucia.vidal@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-16 07:54
+TSA-BIO-L0001,ane.etxeberria@tailspin-aero.example,avionics-flasher.exe,,User confirmed,Success,2026-10-16 23:21
+TSA-MAD-L0114,gorka.serrano@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-16 23:55
+TSA-MAD-L0020,jorge.vidal@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-17 04:04
+TSA-MAD-L0017,raul.iglesias@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-17 06:33
+TSA-MAD-L0128,daniel.serrano@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-17 23:56
+TSA-MAD-L0106,hugo.vidal@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-18 00:14
+TSA-MAD-L0085,asier.castro@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-18 00:23
+TSA-MAD-L0022,leire.delgado@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-18 01:04
+TSA-MAD-L0017,raul.iglesias@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-18 01:44
+TSA-MAD-L0018,lucia.iglesias@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-18 02:43
+TSA-MAD-L0096,ane.campos@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-18 23:56
+TSA-BIO-L0011,marta.zubiri@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-19 01:18
+TSA-MAD-L0019,daniel.iglesias@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-19 01:20
+TSA-BIO-L0064,adrian.ortega@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-19 02:00
+TSA-MAD-L0015,paula.etxeberria@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-19 05:54
+TSA-BIO-L0042,nerea.garmendia@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-19 07:51
+TSA-BIO-W0016,noelia.moreno@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-20 00:01
+TSA-MAD-L0015,paula.etxeberria@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-20 07:36
+TSA-MAD-L0021,irene.ruiz@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-21 02:02
+TSA-MAD-L0119,laura.romero@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-21 02:55
+TSA-MAD-L0030,andrea.iglesias@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-21 08:08
+TSA-MAD-L0171,daniel.prieto@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-22 01:17
+TSA-MAD-L0023,oscar.romero@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-22 02:47
+TSA-MAD-L0068,leire.aguirre@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-22 03:04
+TSA-MAD-L0145,paula.cabrera@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-22 03:25
+TSA-MAD-L0024,mikel.campos@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-22 07:02
+TSA-MAD-L0035,asier.delgado@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-23 05:13
+TSA-MAD-L0016,lucia.vidal@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-23 07:30
+TSA-MAD-L0087,gorka.campos@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-23 07:43
+TSA-BIO-L0001,ane.etxeberria@tailspin-aero.example,avionics-flasher.exe,,User confirmed,Success,2026-10-24 05:30
+TSA-MAD-L0015,paula.etxeberria@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-25 01:57
+TSA-MAD-L0018,lucia.iglesias@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-25 06:18
+TSA-MAD-L0020,jorge.vidal@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-25 07:57
+TSA-BIO-L0078,javier.larrea@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-25 08:40
+TSA-MAD-L0024,mikel.campos@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-26 00:07
+TSA-BIO-W0013,andrea.herrera@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-26 00:46
+TSA-BIO-L0003,leire.arana@tailspin-aero.example,avionics-flasher.exe,,User confirmed,Success,2026-10-26 03:07
+TSA-MAD-L0016,lucia.vidal@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-26 04:27
+TSA-MAD-L0021,irene.ruiz@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-26 05:52
+TSA-BIO-L0008,mikel.prieto@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-26 23:56
+TSA-MAD-L0069,jorge.iglesias@tailspin-aero.example,DataLoggerTool.exe,Sensotec Instruments,User confirmed,Success,2026-10-27 00:13
+TSA-MAD-L0022,leire.delgado@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-27 06:29
+TSA-MAD-L0024,mikel.campos@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-27 23:31
+TSA-MAD-L0017,raul.iglesias@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-28 01:20
+TSA-MAD-L0019,daniel.iglesias@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-28 06:50
+TSA-MAD-L0058,maite.serrano@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-28 07:13
+TSA-MAD-L0089,javier.prieto@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-28 23:18
+TSA-MAD-L0005,adrian.herrera@tailspin-aero.example,DataLoggerTool.exe,Sensotec Instruments,User confirmed,Success,2026-10-29 03:35
+TSA-BIO-L0012,sergio.castro@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-29 03:51
+TSA-MAD-W0023,pablo.cabrera@tailspin-aero.example,DataLoggerTool.exe,Sensotec Instruments,User confirmed,Success,2026-10-29 05:47
+TSA-MAD-L0083,alba.moreno@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-29 05:53
+TSA-MAD-L0028,irene.serrano@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-29 08:30
+TSA-MAD-L0019,daniel.iglesias@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-30 02:44
+TSA-MAD-L0164,mikel.moreno@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-10-31 04:05
+TSA-MAD-L0017,raul.iglesias@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-10-31 08:48
+TSA-MAD-L0018,lucia.iglesias@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-11-01 00:29
+TSA-MAD-L0072,sara.ortega@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-11-01 05:24
+TSA-MAD-L0109,irene.larrea@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-11-02 07:43
+TSA-MAD-W0011,andrea.navarro@tailspin-aero.example,DataLoggerTool.exe,Sensotec Instruments,User confirmed,Success,2026-11-03 06:24
+TSA-BIO-L0056,adrian.arana@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-11-05 01:03
+TSA-MAD-L0018,lucia.iglesias@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-11-05 01:44
+TSA-MAD-L0021,irene.ruiz@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-11-05 03:36
+TSA-MAD-L0016,lucia.vidal@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-11-06 01:57
+TSA-BIO-L0096,mikel.molina@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-11-06 02:24
+TSA-BIO-L0079,adrian.lozano@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-11-07 01:10
+TSA-BIO-W0009,hugo.moreno@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-11-07 02:50
+TSA-MAD-L0015,paula.etxeberria@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-11-07 06:19
+TSA-BIO-L0073,daniel.larrea@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-11-07 23:46
+TSA-MAD-L0020,jorge.vidal@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-11-08 07:14
+TSA-MAD-L0168,elena.vidal@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-11-10 02:01
+TSA-MAD-L0015,paula.etxeberria@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-11-10 02:28
+TSA-MAD-L0160,ruben.urrutia@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-11-11 00:20
+TSA-MAD-L0099,iker.delgado@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-11-11 03:12
+TSA-BIO-L0006,marta.romero@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-11-11 05:24
+TSA-MAD-L0016,lucia.vidal@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-11-11 08:39
+TSA-MAD-L0023,oscar.romero@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-11-12 08:54
+TSA-BIO-L0002,pablo.navarro@tailspin-aero.example,avionics-flasher.exe,,User confirmed,Success,2026-11-12 23:55
+TSA-MAD-L0022,leire.delgado@tailspin-aero.example,AeroCAD_Setup.exe,AeroCAD Systems Ltd,Support approved,Success,2026-11-13 00:24
+TSA-MAD-L0094,ane.herrera@tailspin-aero.example,PrinterDriverInstaller.exe,Tailspin Aerospace IT,Automatic,Success,2026-11-13 02:06
