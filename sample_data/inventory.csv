@@ -1,0 +1,379 @@
+AssetTag,DeviceName,SerialNumber,Platform,Model,Site,Department,AssignedTo,Status
+TSA-10001,TSA-MAD-L0001,TS9DFCFBD4,Windows,EliteBook 840 G11,Madrid,Engineering,unai.ruiz@tailspin-aero.example,In use
+TSA-10002,TSA-MAD-L0002,TS80873FE6,Windows,Latitude 5550,Madrid,Engineering,marta.iglesias@tailspin-aero.example,In use
+TSA-10003,TSA-MAD-L0003,TS854368B8,Windows,Latitude 5550,Madrid,Engineering,lucia.ruiz@tailspin-aero.example,In use
+TSA-10004,TSA-MAD-L0004,TS07FDC0BE,Windows,Latitude 5550,Madrid,Engineering,elena.ortega@tailspin-aero.example,In use
+TSA-10005,TSA-MAD-L0005,TS2B56BB8B,Windows,Latitude 7450,Madrid,Engineering,adrian.herrera@tailspin-aero.example,In use
+TSA-10006,TSA-MAD-L0006,TS21E2ABBE,Windows,EliteBook 840 G11,Madrid,Engineering,oscar.cabrera@tailspin-aero.example,In use
+TSA-10007,TSA-MAD-L0007,TS2B531EE0,Windows,EliteBook 840 G11,Madrid,Engineering,raul.cabrera@tailspin-aero.example,In use
+TSA-10008,TSA-MAD-L0008,TS32BDA1E5,Windows,Latitude 5550,Madrid,Engineering,leire.ortega@tailspin-aero.example,In use
+TSA-10009,TSA-MAD-L0009,TS81EE269A,Windows,Latitude 7450,Madrid,Engineering,javier.aguirre@tailspin-aero.example,In use
+TSA-10010,TSA-MAD-L0010,TS82F603CD,Windows,EliteBook 840 G11,Madrid,Engineering,diego.iglesias@tailspin-aero.example,In use
+TSA-10011,TSA-MAD-L0011,TS0E1A1471,Windows,Latitude 7450,Madrid,Engineering,sara.urrutia@tailspin-aero.example,In use
+TSA-10012,TSA-MAD-L0012,TSC91AC76D,Windows,Latitude 7450,Madrid,Engineering,asier.etxeberria@tailspin-aero.example,In use
+TSA-10013,TSA-MAD-L0013,TS707E3053,Windows,Latitude 5550,Madrid,Engineering,eider.castro@tailspin-aero.example,In use
+TSA-10014,TSA-MAD-L0014,TS27BFCD47,Windows,EliteBook 840 G11,Madrid,Engineering,alvaro.serrano@tailspin-aero.example,In use
+TSA-10015,TSA-MAD-L0015,TSD32EB077,Windows,EliteBook 840 G11,Madrid,Engineering,paula.etxeberria@tailspin-aero.example,In use
+TSA-10016,TSA-MAD-L0016,TS9799C2F5,Windows,Latitude 7450,Madrid,Engineering,lucia.vidal@tailspin-aero.example,In use
+TSA-10017,TSA-MAD-L0017,TS24DE43A3,Windows,EliteBook 840 G11,Madrid,Engineering,raul.iglesias@tailspin-aero.example,In use
+TSA-10018,TSA-MAD-L0018,TS1872A0EB,Windows,Latitude 5550,Madrid,Engineering,lucia.iglesias@tailspin-aero.example,In use
+TSA-10019,TSA-MAD-L0019,TS7A6AD090,Windows,Latitude 7450,Madrid,Engineering,daniel.iglesias@tailspin-aero.example,In use
+TSA-10020,TSA-MAD-L0020,TS41C8B1FA,Windows,Latitude 7450,Madrid,Engineering,jorge.vidal@tailspin-aero.example,In use
+TSA-10021,TSA-MAD-L0021,TS242AD603,Windows,EliteBook 840 G11,Madrid,Engineering,irene.ruiz@tailspin-aero.example,In use
+TSA-10022,TSA-MAD-L0022,TSFB2B99C9,Windows,Latitude 5550,Madrid,Engineering,leire.delgado@tailspin-aero.example,In use
+TSA-10023,TSA-MAD-L0023,TSA84D4525,Windows,Latitude 5550,Madrid,Engineering,oscar.romero@tailspin-aero.example,In use
+TSA-10024,TSA-MAD-L0024,TS7AE85929,Windows,Latitude 5550,Madrid,Engineering,mikel.campos@tailspin-aero.example,In use
+TSA-10025,TSA-MAD-L0025,TS3359F0D7,Windows,Latitude 7450,Madrid,Engineering,gorka.arana@tailspin-aero.example,In use
+TSA-10026,TSA-MAD-L0026,TSA7080AAB,Windows,EliteBook 840 G11,Madrid,Engineering,iker.serrano@tailspin-aero.example,In use
+TSA-10027,TSA-MAD-L0027,TS13D4AA86,Windows,EliteBook 840 G11,Madrid,Engineering,jorge.etxeberria@tailspin-aero.example,In use
+TSA-10028,TSA-MAD-L0028,TS66592C24,Windows,Latitude 7450,Madrid,Engineering,irene.serrano@tailspin-aero.example,In use
+TSA-10029,TSA-MAD-L0029,TS3CD9448C,Windows,Latitude 5550,Madrid,Engineering,jorge.navarro@tailspin-aero.example,In use
+TSA-10030,TSA-MAD-L0030,TSC481C77F,Windows,Latitude 7450,Madrid,Engineering,andrea.iglesias@tailspin-aero.example,In use
+TSA-10031,TSA-MAD-L0031,TS7C965795,Windows,EliteBook 840 G11,Madrid,Engineering,eider.aguirre@tailspin-aero.example,In use
+TSA-10032,TSA-MAD-L0032,TS37996DF5,Windows,Latitude 5550,Madrid,Engineering,unai.herrera@tailspin-aero.example,In use
+TSA-10033,TSA-MAD-L0033,TS2E3D0760,Windows,Latitude 7450,Madrid,Engineering,paula.romero@tailspin-aero.example,In use
+TSA-10034,TSA-MAD-L0034,TSBF261D38,Windows,Latitude 5550,Madrid,Engineering,iker.cabrera@tailspin-aero.example,In use
+TSA-10035,TSA-MAD-L0035,TSDFA42434,Windows,Latitude 7450,Madrid,Engineering,asier.delgado@tailspin-aero.example,In use
+TSA-10036,TSA-MAD-L0036,TS14CF992D,Windows,EliteBook 840 G11,Madrid,Engineering,diego.urrutia@tailspin-aero.example,In use
+TSA-10037,TSA-MAD-L0037,TS603A8011,Windows,Latitude 7450,Madrid,Engineering,adrian.campos@tailspin-aero.example,In use
+TSA-10038,TSA-MAD-L0038,TSCAEDAD0B,Windows,EliteBook 840 G11,Madrid,Engineering,julia.etxeberria@tailspin-aero.example,In use
+TSA-10039,TSA-MAD-L0039,TSF5116246,Windows,Latitude 5550,Madrid,Engineering,noelia.navarro@tailspin-aero.example,In use
+TSA-10040,TSA-MAD-L0040,TS5586CAA5,Windows,EliteBook 840 G11,Madrid,Engineering,laura.urrutia@tailspin-aero.example,In use
+TSA-10041,TSA-MAD-L0041,TSD02B5AA2,Windows,Latitude 7450,Madrid,Engineering,lucia.campos@tailspin-aero.example,In use
+TSA-10042,TSA-MAD-L0042,TS16C7F581,Windows,EliteBook 840 G11,Madrid,Engineering,hugo.aguirre@tailspin-aero.example,In use
+TSA-10043,TSA-MAD-L0043,TS6E7E858C,Windows,Latitude 7450,Madrid,Engineering,noelia.romero@tailspin-aero.example,In use
+TSA-10044,TSA-MAD-L0044,TSAA4A4673,Windows,Latitude 7450,Madrid,Engineering,asier.moreno@tailspin-aero.example,In use
+TSA-10045,TSA-MAD-L0045,TS7AE628F4,Windows,Latitude 7450,Madrid,Engineering,carmen.ortega@tailspin-aero.example,In use
+TSA-10046,TSA-MAD-L0046,TS6653ECD3,Windows,Latitude 7450,Madrid,Engineering,julia.moreno@tailspin-aero.example,In use
+TSA-10047,TSA-MAD-L0047,TSCDCEA4AB,Windows,Latitude 7450,Madrid,Engineering,oscar.aguirre@tailspin-aero.example,In use
+TSA-10048,TSA-MAD-L0048,TS6A0BC665,Windows,EliteBook 840 G11,Madrid,Engineering,paula.navarro@tailspin-aero.example,In use
+TSA-10049,TSA-MAD-L0049,TS9A41AC9C,Windows,Latitude 5550,Madrid,Engineering,carlos.iglesias@tailspin-aero.example,In use
+TSA-10050,TSA-MAD-L0050,TS43494CE5,Windows,EliteBook 840 G11,Madrid,Engineering,laura.iglesias@tailspin-aero.example,In use
+TSA-10051,TSA-MAD-L0051,TS93C3AB60,Windows,EliteBook 840 G11,Madrid,Engineering,sergio.navarro@tailspin-aero.example,In use
+TSA-10052,TSA-MAD-L0052,TS093828F0,Windows,Latitude 5550,Madrid,Engineering,carlos.prieto@tailspin-aero.example,In use
+TSA-10053,TSA-MAD-L0053,TS8D4ED867,Windows,Latitude 7450,Madrid,Engineering,noelia.campos@tailspin-aero.example,In use
+TSA-10054,TSA-MAD-L0054,TS080A6783,Windows,EliteBook 840 G11,Madrid,Engineering,gorka.etxeberria@tailspin-aero.example,In use
+TSA-10055,TSA-MAD-L0055,TS85510E8C,Windows,EliteBook 840 G11,Madrid,Engineering,andrea.prieto@tailspin-aero.example,In use
+TSA-10056,TSA-MAD-L0056,TS674459FA,Windows,EliteBook 840 G11,Madrid,Engineering,leire.iglesias@tailspin-aero.example,In use
+TSA-10057,TSA-MAD-L0057,TS010E2422,Windows,Latitude 7450,Madrid,Engineering,eider.ruiz@tailspin-aero.example,In use
+TSA-10058,TSA-MAD-L0058,TS0D5A36A8,Windows,Latitude 5550,Madrid,Engineering,maite.serrano@tailspin-aero.example,In use
+TSA-10059,TSA-MAD-L0059,TS377B0919,Windows,Latitude 5550,Madrid,Engineering,laura.zubiri@tailspin-aero.example,In use
+TSA-10060,TSA-MAD-L0060,TS0EF49AA0,Windows,Latitude 5550,Madrid,Engineering,diego.delgado@tailspin-aero.example,In use
+TSA-10061,TSA-MAD-L0061,TS22C6B949,Windows,Latitude 5550,Madrid,Engineering,diego.ruiz@tailspin-aero.example,In use
+TSA-10062,TSA-MAD-L0062,TS3568BFFB,Windows,EliteBook 840 G11,Madrid,Engineering,carlos.serrano@tailspin-aero.example,In use
+TSA-10063,TSA-MAD-L0063,TS3BFD5DC9,Windows,Latitude 7450,Madrid,Engineering,lucia.navarro@tailspin-aero.example,In use
+TSA-10064,TSA-MAD-L0064,TS818B1450,Windows,Latitude 7450,Madrid,Engineering,jorge.moreno@tailspin-aero.example,In use
+TSA-10065,TSA-MAD-L0065,TS4B504C9F,Windows,EliteBook 840 G11,Madrid,Engineering,carmen.delgado@tailspin-aero.example,In use
+TSA-10066,TSA-MAD-L0066,TS4D924440,Windows,Latitude 5550,Madrid,Engineering,gorka.delgado@tailspin-aero.example,In use
+TSA-10067,TSA-MAD-L0067,TSBFD1E9EA,Windows,Latitude 5550,Madrid,Engineering,pablo.urrutia@tailspin-aero.example,In use
+TSA-10068,TSA-MAD-L0068,TS2171277A,Windows,Latitude 7450,Madrid,Engineering,leire.aguirre@tailspin-aero.example,In use
+TSA-10069,TSA-MAD-L0069,TS79D292CF,Windows,EliteBook 840 G11,Madrid,Engineering,jorge.iglesias@tailspin-aero.example,In use
+TSA-10070,TSA-MAD-L0070,TS8304B5E1,Windows,Latitude 7450,Madrid,Engineering,diego.herrera@tailspin-aero.example,In use
+TSA-10071,TSA-MAD-W0001,TS21E714DC,Windows,Precision 3680,Madrid,Engineering,hugo.larrea@tailspin-aero.example,In use
+TSA-10072,TSA-MAD-W0002,TS13E4E25E,Windows,Precision 5860,Madrid,Engineering,carmen.iglesias@tailspin-aero.example,In use
+TSA-10073,TSA-MAD-W0003,TSDEEC29F9,Windows,Precision 3680,Madrid,Engineering,diego.larrea@tailspin-aero.example,In use
+TSA-10074,TSA-MAD-W0004,TS11DFFB45,Windows,Precision 5860,Madrid,Engineering,adrian.garmendia@tailspin-aero.example,In use
+TSA-10075,TSA-MAD-W0005,TSCD03F680,Windows,Precision 3680,Madrid,Engineering,gorka.molina@tailspin-aero.example,In use
+TSA-10076,TSA-MAD-W0006,TS1B6D5AAB,Windows,Precision 5860,Madrid,Engineering,irene.ortega@tailspin-aero.example,In use
+TSA-10077,TSA-MAD-W0007,TS5D6669D6,Windows,Precision 3680,Madrid,Engineering,sergio.ortega@tailspin-aero.example,In use
+TSA-10078,TSA-MAD-W0008,TS2152D725,Windows,Precision 5860,Madrid,Engineering,noelia.urrutia@tailspin-aero.example,In use
+TSA-10079,TSA-MAD-W0009,TS125A9C84,Windows,Precision 3680,Madrid,Engineering,gorka.herrera@tailspin-aero.example,In use
+TSA-10080,TSA-MAD-W0010,TSC0F5A6C5,Windows,Precision 3680,Madrid,Engineering,ruben.delgado@tailspin-aero.example,In use
+TSA-10081,TSA-MAD-W0011,TS5B59AA42,Windows,Precision 3680,Madrid,Engineering,andrea.navarro@tailspin-aero.example,In use
+TSA-10082,TSA-MAD-W0012,TSCC10A80D,Windows,Precision 5860,Madrid,Engineering,maite.ortega@tailspin-aero.example,In use
+TSA-10083,TSA-MAD-W0013,TS216D2C65,Windows,Precision 3680,Madrid,Engineering,ruben.aguirre@tailspin-aero.example,In use
+TSA-10084,TSA-MAD-W0014,TSFCEFE63D,Windows,Precision 3680,Madrid,Engineering,elena.serrano@tailspin-aero.example,In use
+TSA-10085,TSA-MAD-W0015,TSCFC2D92D,Windows,Precision 5860,Madrid,Engineering,iker.navarro@tailspin-aero.example,In use
+TSA-10086,TSA-MAD-W0016,TS05059410,Windows,Precision 3680,Madrid,Engineering,irene.romero@tailspin-aero.example,In use
+TSA-10087,TSA-MAD-W0017,TS2776CF62,Windows,Precision 3680,Madrid,Engineering,hugo.serrano@tailspin-aero.example,In use
+TSA-10088,TSA-MAD-W0018,TSEF086974,Windows,Precision 5860,Madrid,Engineering,diego.lozano@tailspin-aero.example,In use
+TSA-10089,TSA-MAD-W0019,TS824FC014,Windows,Precision 3680,Madrid,Engineering,asier.aguirre@tailspin-aero.example,In use
+TSA-10090,TSA-MAD-W0020,TSFF1D1683,Windows,Precision 3680,Madrid,Engineering,eider.urrutia@tailspin-aero.example,In use
+TSA-10091,TSA-MAD-W0021,TS5F67DB6A,Windows,Precision 3680,Madrid,Engineering,elena.iglesias@tailspin-aero.example,In use
+TSA-10092,TSA-MAD-W0022,TSF24DD571,Windows,Precision 5860,Madrid,Engineering,carlos.vidal@tailspin-aero.example,In use
+TSA-10093,TSA-MAD-W0023,TS7B34A0A1,Windows,Precision 5860,Madrid,Engineering,pablo.cabrera@tailspin-aero.example,In use
+TSA-10094,TSA-MAD-W0024,TSED84712C,Windows,Precision 3680,Madrid,Engineering,ruben.serrano@tailspin-aero.example,In use
+TSA-10095,TSA-BIO-L0001,TS5BE931CA,Windows,Latitude 5550,Bilbao,Flight test,ane.etxeberria@tailspin-aero.example,In use
+TSA-10096,TSA-BIO-L0002,TS2502BF53,Windows,EliteBook 840 G11,Bilbao,Flight test,pablo.navarro@tailspin-aero.example,In use
+TSA-10097,TSA-BIO-L0003,TS54FA1D0B,Windows,EliteBook 840 G11,Bilbao,Flight test,leire.arana@tailspin-aero.example,In use
+TSA-10098,TSA-BIO-L0004,TS7C7EEFEB,Windows,EliteBook 840 G11,Bilbao,Flight test,andrea.arana@tailspin-aero.example,In use
+TSA-10099,TSA-BIO-L0005,TSE2E5F0CD,Windows,Latitude 7450,Bilbao,Flight test,daniel.lozano@tailspin-aero.example,In use
+TSA-10100,TSA-BIO-L0006,TSC9EE882D,Windows,EliteBook 840 G11,Bilbao,Flight test,marta.romero@tailspin-aero.example,In use
+TSA-10101,TSA-BIO-L0007,TSE61CEC3E,Windows,Latitude 7450,Bilbao,Flight test,ruben.molina@tailspin-aero.example,In use
+TSA-10102,TSA-BIO-L0008,TS935D503F,Windows,EliteBook 840 G11,Bilbao,Flight test,mikel.prieto@tailspin-aero.example,In use
+TSA-10103,TSA-BIO-L0009,TS55914A35,Windows,Latitude 5550,Bilbao,Flight test,sergio.vidal@tailspin-aero.example,In use
+TSA-10104,TSA-BIO-L0010,TS5600E3F5,Windows,Latitude 5550,Bilbao,Flight test,paula.prieto@tailspin-aero.example,In use
+TSA-10105,TSA-BIO-L0011,TS38A87BEC,Windows,EliteBook 840 G11,Bilbao,Flight test,marta.zubiri@tailspin-aero.example,In use
+TSA-10106,TSA-BIO-L0012,TSD4251004,Windows,Latitude 5550,Bilbao,Flight test,sergio.castro@tailspin-aero.example,In use
+TSA-10107,TSA-BIO-L0013,TS1D2602A3,Windows,Latitude 7450,Bilbao,Flight test,iker.herrera@tailspin-aero.example,In use
+TSA-10108,TSA-BIO-L0014,TS9D0D6B04,Windows,Latitude 7450,Bilbao,Flight test,laura.garmendia@tailspin-aero.example,In use
+TSA-10109,TSA-BIO-L0015,TS419C307A,Windows,Latitude 7450,Bilbao,Flight test,gorka.zubiri@tailspin-aero.example,In use
+TSA-10110,TSA-BIO-L0016,TS5DC6E77C,Windows,EliteBook 840 G11,Bilbao,Flight test,lucia.castro@tailspin-aero.example,In use
+TSA-10111,TSA-BIO-L0017,TS9621FB40,Windows,Latitude 7450,Bilbao,Flight test,alvaro.campos@tailspin-aero.example,In use
+TSA-10112,TSA-BIO-L0018,TS42D0123F,Windows,EliteBook 840 G11,Bilbao,Flight test,unai.iglesias@tailspin-aero.example,In use
+TSA-10113,TSA-BIO-L0019,TSCE32330F,Windows,EliteBook 840 G11,Bilbao,Flight test,maite.urrutia@tailspin-aero.example,In use
+TSA-10114,TSA-BIO-L0020,TS572EBBB5,Windows,Latitude 5550,Bilbao,Flight test,clara.serrano@tailspin-aero.example,In use
+TSA-10115,TSA-BIO-L0021,TSABB42121,Windows,EliteBook 840 G11,Bilbao,Flight test,noelia.zubiri@tailspin-aero.example,In use
+TSA-10116,TSA-BIO-L0022,TSDC58CDD7,Windows,Latitude 7450,Bilbao,Flight test,sara.castro@tailspin-aero.example,In use
+TSA-10117,TSA-BIO-L0023,TSDC2DACA5,Windows,Latitude 7450,Bilbao,Flight test,leire.lozano@tailspin-aero.example,In use
+TSA-10118,TSA-BIO-L0024,TS0D2F1B68,Windows,Latitude 5550,Bilbao,Flight test,clara.navarro@tailspin-aero.example,In use
+TSA-10119,TSA-BIO-L0025,TS681523EB,Windows,Latitude 7450,Bilbao,Flight test,mikel.garmendia@tailspin-aero.example,In use
+TSA-10120,TSA-BIO-L0026,TS3BEA132B,Windows,EliteBook 840 G11,Bilbao,Flight test,unai.etxeberria@tailspin-aero.example,In use
+TSA-10121,TSA-BIO-L0027,TSD6FBDF61,Windows,EliteBook 840 G11,Bilbao,Flight test,sara.arana@tailspin-aero.example,In use
+TSA-10122,TSA-BIO-L0028,TSE7CE56F6,Windows,Latitude 7450,Bilbao,Flight test,sara.ruiz@tailspin-aero.example,In use
+TSA-10123,TSA-BIO-L0029,TS8B82A14F,Windows,Latitude 7450,Bilbao,Flight test,sergio.molina@tailspin-aero.example,In use
+TSA-10124,TSA-BIO-L0030,TSBE5AD128,Windows,Latitude 7450,Bilbao,Flight test,maite.prieto@tailspin-aero.example,In use
+TSA-10125,TSA-BIO-L0031,TS1B366FA0,Windows,Latitude 7450,Bilbao,Flight test,laura.navarro@tailspin-aero.example,In use
+TSA-10126,TSA-BIO-L0032,TS923F8A01,Windows,Latitude 5550,Bilbao,Flight test,sara.romero@tailspin-aero.example,In use
+TSA-10127,TSA-BIO-L0033,TS29CAA157,Windows,EliteBook 840 G11,Bilbao,Flight test,paula.arana@tailspin-aero.example,In use
+TSA-10128,TSA-BIO-L0034,TS5A2D9A2F,Windows,EliteBook 840 G11,Bilbao,Flight test,ruben.herrera@tailspin-aero.example,In use
+TSA-10129,TSA-BIO-L0035,TS7F60ABD8,Windows,Latitude 7450,Bilbao,Production,sara.prieto@tailspin-aero.example,In use
+TSA-10130,TSA-BIO-L0036,TS6E65B452,Windows,EliteBook 840 G11,Bilbao,Production,maite.larrea@tailspin-aero.example,In use
+TSA-10131,TSA-BIO-L0037,TS78335A87,Windows,EliteBook 840 G11,Bilbao,Production,noelia.vidal@tailspin-aero.example,In use
+TSA-10132,TSA-BIO-L0038,TSCA6842C7,Windows,Latitude 7450,Bilbao,Production,irene.campos@tailspin-aero.example,In use
+TSA-10133,TSA-BIO-L0039,TS9883455E,Windows,Latitude 7450,Bilbao,Production,iker.romero@tailspin-aero.example,In use
+TSA-10134,TSA-BIO-L0040,TS6BDB87AF,Windows,Latitude 7450,Bilbao,Production,irene.prieto@tailspin-aero.example,In use
+TSA-10135,TSA-BIO-L0041,TS4DA0D871,Windows,Latitude 5550,Bilbao,Production,pablo.ibarra@tailspin-aero.example,In use
+TSA-10136,TSA-BIO-L0042,TS1BE16F14,Windows,Latitude 7450,Bilbao,Production,nerea.garmendia@tailspin-aero.example,In use
+TSA-10137,TSA-BIO-L0043,TS53EC17E9,Windows,Latitude 7450,Bilbao,Production,clara.arana@tailspin-aero.example,In use
+TSA-10138,TSA-BIO-L0044,TS779A0A5D,Windows,EliteBook 840 G11,Bilbao,Production,asier.larrea@tailspin-aero.example,In use
+TSA-10139,TSA-BIO-L0045,TS73B22AFC,Windows,EliteBook 840 G11,Bilbao,Production,clara.castro@tailspin-aero.example,In use
+TSA-10140,TSA-BIO-L0046,TSB3EB2B27,Windows,EliteBook 840 G11,Bilbao,Production,ruben.ortega@tailspin-aero.example,In use
+TSA-10141,TSA-BIO-L0047,TS68353BB1,Windows,Latitude 7450,Bilbao,Production,julia.romero@tailspin-aero.example,In use
+TSA-10142,TSA-BIO-L0048,TSC3BBE9FD,Windows,EliteBook 840 G11,Bilbao,Production,mikel.castro@tailspin-aero.example,In use
+TSA-10143,TSA-BIO-L0049,TS7A62274C,Windows,EliteBook 840 G11,Bilbao,Production,irene.moreno@tailspin-aero.example,In use
+TSA-10144,TSA-BIO-L0050,TSD6588D77,Windows,Latitude 5550,Bilbao,Production,javier.moreno@tailspin-aero.example,In use
+TSA-10145,TSA-BIO-L0051,TSC0D1E492,Windows,Latitude 7450,Bilbao,Production,laura.campos@tailspin-aero.example,In use
+TSA-10146,TSA-BIO-L0052,TS1B3E6913,Windows,Latitude 7450,Bilbao,Production,alba.prieto@tailspin-aero.example,In use
+TSA-10147,TSA-BIO-L0053,TS5893FE67,Windows,Latitude 7450,Bilbao,Production,sergio.urrutia@tailspin-aero.example,In use
+TSA-10148,TSA-BIO-L0054,TSA2951F9F,Windows,Latitude 7450,Bilbao,Production,gorka.lozano@tailspin-aero.example,In use
+TSA-10149,TSA-BIO-L0055,TS184460FA,Windows,Latitude 7450,Bilbao,Production,javier.ortega@tailspin-aero.example,In use
+TSA-10150,TSA-BIO-L0056,TS31106DD9,Windows,EliteBook 840 G11,Bilbao,Production,adrian.arana@tailspin-aero.example,In use
+TSA-10151,TSA-BIO-L0057,TS66BA37A5,Windows,Latitude 5550,Bilbao,Production,alvaro.lozano@tailspin-aero.example,In use
+TSA-10152,TSA-BIO-L0058,TSC548DD86,Windows,Latitude 7450,Bilbao,Production,sara.vidal@tailspin-aero.example,In use
+TSA-10153,TSA-BIO-L0059,TSE83146D6,Windows,Latitude 7450,Bilbao,Production,marta.vidal@tailspin-aero.example,In use
+TSA-10154,TSA-BIO-L0060,TS0E27B1AC,Windows,Latitude 5550,Bilbao,Production,mikel.ruiz@tailspin-aero.example,In use
+TSA-10155,TSA-BIO-L0061,TSA452C0AF,Windows,Latitude 7450,Bilbao,Production,carmen.ibarra@tailspin-aero.example,In use
+TSA-10156,TSA-BIO-L0062,TS432300E8,Windows,Latitude 5550,Bilbao,Production,ane.vidal@tailspin-aero.example,In use
+TSA-10157,TSA-BIO-L0063,TS55DDB716,Windows,Latitude 5550,Bilbao,Production,sergio.ibarra@tailspin-aero.example,In use
+TSA-10158,TSA-BIO-L0064,TS9F4D7315,Windows,Latitude 5550,Bilbao,Production,adrian.ortega@tailspin-aero.example,In use
+TSA-10159,TSA-BIO-L0065,TS2CB05F28,Windows,Latitude 5550,Bilbao,Production,marta.ruiz@tailspin-aero.example,In use
+TSA-10160,TSA-BIO-L0066,TS091F76CB,Windows,EliteBook 840 G11,Bilbao,Production,gorka.ibarra@tailspin-aero.example,In use
+TSA-10161,TSA-BIO-L0067,TS78734D7F,Windows,Latitude 7450,Bilbao,Production,daniel.garmendia@tailspin-aero.example,In use
+TSA-10162,TSA-BIO-L0068,TSD8EA1D69,Windows,Latitude 5550,Bilbao,Production,eider.etxeberria@tailspin-aero.example,In use
+TSA-10163,TSA-BIO-L0069,TSB1383819,Windows,EliteBook 840 G11,Bilbao,Production,mikel.iglesias@tailspin-aero.example,In use
+TSA-10164,TSA-BIO-L0070,TS3A7164E0,Windows,Latitude 7450,Bilbao,Production,ruben.vidal@tailspin-aero.example,In use
+TSA-10165,TSA-BIO-L0071,TSCF7700C0,Windows,Latitude 5550,Bilbao,Production,eider.arana@tailspin-aero.example,In use
+TSA-10166,TSA-BIO-L0072,TSFEF9CF82,Windows,Latitude 5550,Bilbao,Production,sara.cabrera@tailspin-aero.example,In use
+TSA-10167,TSA-BIO-L0073,TSF7522E14,Windows,Latitude 7450,Bilbao,Production,daniel.larrea@tailspin-aero.example,In use
+TSA-10168,TSA-BIO-L0074,TS6477C8D1,Windows,Latitude 5550,Bilbao,Production,sara.serrano@tailspin-aero.example,In use
+TSA-10169,TSA-BIO-L0075,TSB534DEC5,Windows,EliteBook 840 G11,Bilbao,Production,oscar.campos@tailspin-aero.example,In use
+TSA-10170,TSA-BIO-L0076,TS0B12C0FD,Windows,Latitude 7450,Bilbao,Production,nerea.urrutia@tailspin-aero.example,In use
+TSA-10171,TSA-BIO-L0077,TSA4D8BABF,Windows,Latitude 7450,Bilbao,Production,sara.zubiri@tailspin-aero.example,In use
+TSA-10172,TSA-BIO-L0078,TS718912EE,Windows,Latitude 5550,Bilbao,Production,javier.larrea@tailspin-aero.example,In use
+TSA-10173,TSA-BIO-L0079,TS9E245951,Windows,Latitude 7450,Bilbao,Production,adrian.lozano@tailspin-aero.example,In use
+TSA-10174,TSA-BIO-L0080,TS97086AC3,Windows,EliteBook 840 G11,Bilbao,Production,ruben.etxeberria@tailspin-aero.example,In use
+TSA-10175,TSA-BIO-W0001,TS5B3EE04F,Windows,Precision 3680,Bilbao,Production,javier.serrano@tailspin-aero.example,In use
+TSA-10176,TSA-BIO-W0002,TSFCD63BE0,Windows,Precision 5860,Bilbao,Production,maite.ibarra@tailspin-aero.example,In use
+TSA-10177,TSA-BIO-W0003,TS42DB317B,Windows,Precision 3680,Bilbao,Production,raul.herrera@tailspin-aero.example,In use
+TSA-10178,TSA-BIO-W0004,TS8B140797,Windows,Precision 5860,Bilbao,Production,javier.lozano@tailspin-aero.example,In use
+TSA-10179,TSA-BIO-W0005,TS3FCEBB5D,Windows,Precision 3680,Bilbao,Production,jorge.castro@tailspin-aero.example,In use
+TSA-10180,TSA-BIO-W0006,TS0CDC4841,Windows,Precision 5860,Bilbao,Production,julia.herrera@tailspin-aero.example,In use
+TSA-10181,TSA-BIO-W0007,TS31603FEA,Windows,Precision 5860,Bilbao,Production,nerea.iglesias@tailspin-aero.example,In use
+TSA-10182,TSA-BIO-W0008,TS871E3276,Windows,Precision 3680,Bilbao,Production,alvaro.vidal@tailspin-aero.example,In use
+TSA-10183,TSA-BIO-W0009,TSCCB75007,Windows,Precision 5860,Bilbao,Production,hugo.moreno@tailspin-aero.example,In use
+TSA-10184,TSA-BIO-W0010,TS28A047C9,Windows,Precision 3680,Bilbao,Production,carlos.larrea@tailspin-aero.example,In use
+TSA-10185,TSA-BIO-W0011,TSE6DD776C,Windows,Precision 5860,Bilbao,Production,ane.moreno@tailspin-aero.example,In use
+TSA-10186,TSA-BIO-W0012,TS49C23D90,Windows,Precision 3680,Bilbao,Production,leire.zubiri@tailspin-aero.example,In use
+TSA-10187,TSA-BIO-W0013,TSF6371987,Windows,Precision 5860,Bilbao,Production,andrea.herrera@tailspin-aero.example,In use
+TSA-10188,TSA-BIO-W0014,TSADE94CA0,Windows,Precision 5860,Bilbao,Production,maite.aguirre@tailspin-aero.example,In use
+TSA-10189,TSA-BIO-W0015,TSEB0F1D9B,Windows,Precision 5860,Bilbao,Production,alba.urrutia@tailspin-aero.example,In use
+TSA-10190,TSA-BIO-W0016,TS3164C94E,Windows,Precision 3680,Bilbao,Production,noelia.moreno@tailspin-aero.example,In use
+TSA-10191,TSA-BIO-W0017,TSC1C172C6,Windows,Precision 5860,Bilbao,Production,elena.zubiri@tailspin-aero.example,In use
+TSA-10192,TSA-BIO-W0018,TSF285F227,Windows,Precision 3680,Bilbao,Production,clara.lozano@tailspin-aero.example,In use
+TSA-10193,TSA-BIO-W0019,TS7B2F1F04,Windows,Precision 5860,Bilbao,Production,lucia.prieto@tailspin-aero.example,In use
+TSA-10194,TSA-BIO-W0020,TSC0CC8041,Windows,Precision 5860,Bilbao,Production,julia.molina@tailspin-aero.example,In use
+TSA-10195,TSA-BIO-L0081,TS45151347,Windows,Latitude 7450,Bilbao,Quality,ane.garmendia@tailspin-aero.example,In use
+TSA-10196,TSA-BIO-L0082,TS217B4030,Windows,Latitude 5550,Bilbao,Quality,sara.aguirre@tailspin-aero.example,In use
+TSA-10197,TSA-BIO-L0083,TSF8D83454,Windows,Latitude 7450,Bilbao,Quality,maite.etxeberria@tailspin-aero.example,In use
+TSA-10198,TSA-BIO-L0084,TSC0D6F60C,Windows,Latitude 7450,Bilbao,Quality,carmen.zubiri@tailspin-aero.example,In use
+TSA-10199,TSA-BIO-L0085,TSF2345D53,Windows,EliteBook 840 G11,Bilbao,Quality,hugo.etxeberria@tailspin-aero.example,In use
+TSA-10200,TSA-BIO-L0086,TS0300654F,Windows,Latitude 5550,Bilbao,Quality,pablo.larrea@tailspin-aero.example,In use
+TSA-10201,TSA-BIO-L0087,TSBF90445A,Windows,EliteBook 840 G11,Bilbao,Quality,iker.lozano@tailspin-aero.example,In use
+TSA-10202,TSA-BIO-L0088,TSF9D4D288,Windows,Latitude 7450,Bilbao,Quality,unai.delgado@tailspin-aero.example,In use
+TSA-10203,TSA-BIO-L0089,TSC433F5B3,Windows,EliteBook 840 G11,Bilbao,Quality,hugo.herrera@tailspin-aero.example,In use
+TSA-10204,TSA-BIO-L0090,TSA170777C,Windows,EliteBook 840 G11,Bilbao,Quality,gorka.aguirre@tailspin-aero.example,In use
+TSA-10205,TSA-BIO-L0091,TSE7DE8F92,Windows,Latitude 5550,Bilbao,Quality,unai.prieto@tailspin-aero.example,In use
+TSA-10206,TSA-BIO-L0092,TS98DBB8D2,Windows,Latitude 5550,Bilbao,Quality,unai.navarro@tailspin-aero.example,In use
+TSA-10207,TSA-BIO-L0093,TSF45D9027,Windows,Latitude 7450,Bilbao,Quality,javier.herrera@tailspin-aero.example,In use
+TSA-10208,TSA-BIO-L0094,TS8B3D0027,Windows,EliteBook 840 G11,Bilbao,Quality,adrian.larrea@tailspin-aero.example,In use
+TSA-10209,TSA-BIO-L0095,TSA64D3A63,Windows,EliteBook 840 G11,Bilbao,Quality,mikel.ortega@tailspin-aero.example,In use
+TSA-10210,TSA-BIO-L0096,TSEFD370EB,Windows,Latitude 7450,Bilbao,Quality,mikel.molina@tailspin-aero.example,In use
+TSA-10211,TSA-BIO-L0097,TS6C26A1B7,Windows,Latitude 5550,Bilbao,Quality,julia.lozano@tailspin-aero.example,In use
+TSA-10212,TSA-BIO-L0098,TS2EB42413,Windows,Latitude 5550,Bilbao,Quality,raul.molina@tailspin-aero.example,In use
+TSA-10213,TSA-BIO-L0099,TSE8EFBF5C,Windows,EliteBook 840 G11,Bilbao,Quality,jorge.delgado@tailspin-aero.example,In use
+TSA-10214,TSA-BIO-L0100,TSBD95E17B,Windows,Latitude 7450,Bilbao,Quality,leire.romero@tailspin-aero.example,In use
+TSA-10215,TSA-BIO-L0101,TS7AABC130,Windows,EliteBook 840 G11,Bilbao,Quality,noelia.serrano@tailspin-aero.example,In use
+TSA-10216,TSA-BIO-L0102,TS216A42FD,Windows,Latitude 7450,Bilbao,Quality,iker.etxeberria@tailspin-aero.example,In use
+TSA-10217,TSA-BIO-L0103,TS6E9F151F,Windows,Latitude 7450,Bilbao,Quality,irene.garmendia@tailspin-aero.example,In use
+TSA-10218,TSA-BIO-L0104,TSD3742CBF,Windows,Latitude 7450,Bilbao,Quality,mikel.aguirre@tailspin-aero.example,In use
+TSA-10219,TSA-BIO-L0105,TSDAA0C17F,Windows,Latitude 7450,Bilbao,Quality,oscar.etxeberria@tailspin-aero.example,In use
+TSA-10220,TSA-BIO-L0106,TS82B04DFC,Windows,EliteBook 840 G11,Bilbao,Quality,andrea.urrutia@tailspin-aero.example,In use
+TSA-10221,TSA-MAD-L0071,TS185398A2,Windows,EliteBook 840 G11,Madrid,Programmes,alba.serrano@tailspin-aero.example,In use
+TSA-10222,TSA-MAD-L0072,TS44818AB0,Windows,Latitude 5550,Madrid,Programmes,sara.ortega@tailspin-aero.example,In use
+TSA-10223,TSA-MAD-L0073,TS95932160,Windows,Latitude 5550,Madrid,Programmes,maite.navarro@tailspin-aero.example,In use
+TSA-10224,TSA-MAD-L0074,TSB19E8CE0,Windows,Latitude 5550,Madrid,Programmes,ruben.zubiri@tailspin-aero.example,In use
+TSA-10225,TSA-MAD-L0075,TSF3840E82,Windows,Latitude 7450,Madrid,Programmes,oscar.ibarra@tailspin-aero.example,In use
+TSA-10226,TSA-MAD-L0076,TS28B47E0D,Windows,Latitude 7450,Madrid,Programmes,maite.delgado@tailspin-aero.example,In use
+TSA-10227,TSA-MAD-L0077,TS7CF8C985,Windows,Latitude 5550,Madrid,Programmes,laura.ortega@tailspin-aero.example,In use
+TSA-10228,TSA-MAD-L0078,TS5A824072,Windows,Latitude 5550,Madrid,Programmes,laura.aguirre@tailspin-aero.example,In use
+TSA-10229,TSA-MAD-L0079,TS256B3C83,Windows,Latitude 7450,Madrid,Programmes,hugo.delgado@tailspin-aero.example,In use
+TSA-10230,TSA-MAD-L0080,TS08B7728A,Windows,EliteBook 840 G11,Madrid,Programmes,javier.iglesias@tailspin-aero.example,In use
+TSA-10231,TSA-MAD-L0081,TSCDC9AC14,Windows,EliteBook 840 G11,Madrid,Programmes,javier.etxeberria@tailspin-aero.example,In use
+TSA-10232,TSA-MAD-L0082,TSBE775DCF,Windows,EliteBook 840 G11,Madrid,Programmes,asier.cabrera@tailspin-aero.example,In use
+TSA-10233,TSA-MAD-L0083,TS76BF0869,Windows,Latitude 5550,Madrid,Programmes,alba.moreno@tailspin-aero.example,In use
+TSA-10234,TSA-MAD-L0084,TS35FEDFA9,Windows,Latitude 7450,Madrid,Programmes,sara.garmendia@tailspin-aero.example,In use
+TSA-10235,TSA-MAD-L0085,TSC8B660FF,Windows,EliteBook 840 G11,Madrid,Programmes,asier.castro@tailspin-aero.example,In use
+TSA-10236,TSA-MAD-L0086,TSF31CF233,Windows,Latitude 7450,Madrid,Programmes,daniel.navarro@tailspin-aero.example,In use
+TSA-10237,TSA-MAD-L0087,TS56C5FBD9,Windows,Latitude 5550,Madrid,Programmes,gorka.campos@tailspin-aero.example,In use
+TSA-10238,TSA-MAD-L0088,TS1393B80A,Windows,Latitude 7450,Madrid,Programmes,alvaro.arana@tailspin-aero.example,In use
+TSA-10239,TSA-MAD-L0089,TSD303991B,Windows,EliteBook 840 G11,Madrid,Programmes,javier.prieto@tailspin-aero.example,In use
+TSA-10240,TSA-MAD-L0090,TSF112FA2C,Windows,EliteBook 840 G11,Madrid,Programmes,sergio.herrera@tailspin-aero.example,In use
+TSA-10241,TSA-MAD-L0091,TSF9489B0D,Windows,Latitude 5550,Madrid,Programmes,oscar.arana@tailspin-aero.example,In use
+TSA-10242,TSA-MAD-L0092,TSCD0270EE,Windows,EliteBook 840 G11,Madrid,Programmes,alvaro.ibarra@tailspin-aero.example,In use
+TSA-10243,TSA-MAD-L0093,TSEDE62BF4,Windows,Latitude 5550,Madrid,Programmes,raul.aguirre@tailspin-aero.example,In use
+TSA-10244,TSA-MAD-L0094,TSFF0FB1EE,Windows,EliteBook 840 G11,Madrid,Programmes,ane.herrera@tailspin-aero.example,In use
+TSA-10245,TSA-MAD-L0095,TS0A29C7CF,Windows,EliteBook 840 G11,Madrid,Programmes,clara.larrea@tailspin-aero.example,In use
+TSA-10246,TSA-MAD-L0096,TSECB537BF,Windows,EliteBook 840 G11,Madrid,Programmes,ane.campos@tailspin-aero.example,In use
+TSA-10247,TSA-MAD-L0097,TS1B515A9E,Windows,Latitude 7450,Madrid,Programmes,nerea.vidal@tailspin-aero.example,In use
+TSA-10248,TSA-MAD-L0098,TS64A24A74,Windows,Latitude 5550,Madrid,Programmes,alba.cabrera@tailspin-aero.example,In use
+TSA-10249,TSA-MAD-L0099,TS823B9278,Windows,Latitude 5550,Madrid,Programmes,iker.delgado@tailspin-aero.example,In use
+TSA-10250,TSA-MAD-L0100,TS4B389DF9,Windows,EliteBook 840 G11,Madrid,Programmes,mikel.ibarra@tailspin-aero.example,In use
+TSA-10251,TSA-MAD-L0101,TS3906CF51,Windows,Latitude 7450,Madrid,Programmes,andrea.romero@tailspin-aero.example,In use
+TSA-10252,TSA-MAD-L0102,TS37FD4C8E,Windows,EliteBook 840 G11,Madrid,Programmes,pablo.romero@tailspin-aero.example,In use
+TSA-10253,TSA-MAD-L0103,TSD88FA57B,Windows,EliteBook 840 G11,Madrid,Programmes,unai.campos@tailspin-aero.example,In use
+TSA-10254,TSA-MAD-L0104,TS1AA26A48,Windows,Latitude 7450,Madrid,Programmes,sergio.ruiz@tailspin-aero.example,In use
+TSA-10255,TSA-MAD-L0105,TS50778F5F,Windows,Latitude 5550,Madrid,Programmes,pablo.prieto@tailspin-aero.example,In use
+TSA-10256,TSA-MAD-L0106,TS405943A7,Windows,Latitude 5550,Madrid,Programmes,hugo.vidal@tailspin-aero.example,In use
+TSA-10257,TSA-MAD-L0107,TS77D9180A,Windows,Latitude 7450,Madrid,Programmes,julia.cabrera@tailspin-aero.example,In use
+TSA-10258,TSA-MAD-L0108,TS1D99D5C9,Windows,Latitude 5550,Madrid,Programmes,oscar.garmendia@tailspin-aero.example,In use
+TSA-10259,TSA-MAD-L0109,TS04809C33,Windows,EliteBook 840 G11,Madrid,Finance,irene.larrea@tailspin-aero.example,In use
+TSA-10260,TSA-MAD-L0110,TSB464ADF3,Windows,Latitude 7450,Madrid,Finance,mikel.urrutia@tailspin-aero.example,In use
+TSA-10261,TSA-MAD-L0111,TSF1F291AB,Windows,Latitude 7450,Madrid,Finance,laura.castro@tailspin-aero.example,In use
+TSA-10262,TSA-MAD-L0112,TS2712FE35,Windows,EliteBook 840 G11,Madrid,Finance,jorge.ortega@tailspin-aero.example,In use
+TSA-10263,TSA-MAD-L0113,TS72BC7BC9,Windows,EliteBook 840 G11,Madrid,Finance,raul.navarro@tailspin-aero.example,In use
+TSA-10264,TSA-MAD-L0114,TS017854BF,Windows,Latitude 7450,Madrid,Finance,gorka.serrano@tailspin-aero.example,In use
+TSA-10265,TSA-MAD-L0115,TS0C56B8B5,Windows,EliteBook 840 G11,Madrid,Finance,clara.aguirre@tailspin-aero.example,In use
+TSA-10266,TSA-MAD-L0116,TS2B58DE7F,Windows,EliteBook 840 G11,Madrid,Finance,andrea.moreno@tailspin-aero.example,In use
+TSA-10267,TSA-MAD-L0117,TS1D54AED7,Windows,Latitude 7450,Madrid,Finance,raul.moreno@tailspin-aero.example,In use
+TSA-10268,TSA-MAD-L0118,TSD904E28C,Windows,Latitude 7450,Madrid,Finance,hugo.urrutia@tailspin-aero.example,In use
+TSA-10269,TSA-MAD-L0119,TS83070330,Windows,Latitude 5550,Madrid,Finance,laura.romero@tailspin-aero.example,In use
+TSA-10270,TSA-MAD-L0120,TSDDA57D8A,Windows,Latitude 5550,Madrid,Finance,mikel.etxeberria@tailspin-aero.example,In use
+TSA-10271,TSA-MAD-L0121,TS9F8E2DBE,Windows,Latitude 7450,Madrid,Finance,javier.campos@tailspin-aero.example,In use
+TSA-10272,TSA-MAD-L0122,TS05D0D533,Windows,Latitude 7450,Madrid,Finance,oscar.ortega@tailspin-aero.example,In use
+TSA-10273,TSA-MAD-L0123,TS50795C62,Windows,EliteBook 840 G11,Madrid,Finance,asier.navarro@tailspin-aero.example,In use
+TSA-10274,TSA-MAD-L0124,TSD1E9133D,Windows,Latitude 5550,Madrid,Finance,leire.ibarra@tailspin-aero.example,In use
+TSA-10275,TSA-MAD-L0125,TSDE3A3D1C,Windows,EliteBook 840 G11,Madrid,Finance,pablo.serrano@tailspin-aero.example,In use
+TSA-10276,TSA-MAD-L0126,TS8D94B528,Windows,Latitude 5550,Madrid,Finance,eider.cabrera@tailspin-aero.example,In use
+TSA-10277,TSA-MAD-L0127,TSB068CEA8,Windows,Latitude 5550,Madrid,Finance,laura.larrea@tailspin-aero.example,In use
+TSA-10278,TSA-MAD-L0128,TSAD795D42,Windows,EliteBook 840 G11,Madrid,Finance,daniel.serrano@tailspin-aero.example,In use
+TSA-10279,TSA-MAD-L0129,TS986964CE,Windows,Latitude 7450,Madrid,Finance,jorge.zubiri@tailspin-aero.example,In use
+TSA-10280,TSA-MAD-L0130,TSEB6A4057,Windows,Latitude 5550,Madrid,Finance,ane.castro@tailspin-aero.example,In use
+TSA-10281,TSA-MAD-L0131,TS5F6A5372,Windows,EliteBook 840 G11,Madrid,People,paula.herrera@tailspin-aero.example,In use
+TSA-10282,TSA-MAD-L0132,TS15119DD1,Windows,Latitude 5550,Madrid,People,diego.arana@tailspin-aero.example,In use
+TSA-10283,TSA-MAD-L0133,TS2B53CB6E,Windows,EliteBook 840 G11,Madrid,People,sara.campos@tailspin-aero.example,In use
+TSA-10284,TSA-MAD-L0134,TS7147B8EA,Windows,Latitude 7450,Madrid,People,gorka.larrea@tailspin-aero.example,In use
+TSA-10285,TSA-MAD-L0135,TS0AD3634D,Windows,Latitude 7450,Madrid,People,ane.ruiz@tailspin-aero.example,In use
+TSA-10286,TSA-MAD-L0136,TS184AD8EB,Windows,Latitude 7450,Madrid,People,clara.etxeberria@tailspin-aero.example,In use
+TSA-10287,TSA-MAD-L0137,TSAB40B716,Windows,Latitude 5550,Madrid,People,daniel.cabrera@tailspin-aero.example,In use
+TSA-10288,TSA-MAD-L0138,TSB07651BC,Windows,EliteBook 840 G11,Madrid,People,alba.campos@tailspin-aero.example,In use
+TSA-10289,TSA-MAD-L0139,TS7B1F7BA2,Windows,Latitude 5550,Madrid,People,noelia.molina@tailspin-aero.example,In use
+TSA-10290,TSA-MAD-L0140,TS28286B25,Windows,EliteBook 840 G11,Madrid,People,diego.castro@tailspin-aero.example,In use
+TSA-10291,TSA-MAD-L0141,TS5FCF8834,Windows,Latitude 5550,Madrid,People,marta.campos@tailspin-aero.example,In use
+TSA-10292,TSA-MAD-L0142,TSB9C59423,Windows,EliteBook 840 G11,Madrid,People,alvaro.molina@tailspin-aero.example,In use
+TSA-10293,TSA-MAD-L0143,TS0FA83911,Windows,Latitude 7450,Madrid,People,daniel.aguirre@tailspin-aero.example,In use
+TSA-10294,TSA-MAD-L0144,TS8E093010,Windows,EliteBook 840 G11,Madrid,People,pablo.delgado@tailspin-aero.example,In use
+TSA-10295,TSA-MAD-L0145,TSF6944944,Windows,Latitude 5550,Madrid,Sales,paula.cabrera@tailspin-aero.example,In use
+TSA-10296,TSA-MAD-L0146,TS2F47583F,Windows,Latitude 5550,Madrid,Sales,gorka.navarro@tailspin-aero.example,In use
+TSA-10297,TSA-MAD-L0147,TS9AAD72C9,Windows,EliteBook 840 G11,Madrid,Sales,alba.aguirre@tailspin-aero.example,In use
+TSA-10298,TSA-MAD-L0148,TS496088A9,Windows,EliteBook 840 G11,Madrid,Sales,gorka.ortega@tailspin-aero.example,In use
+TSA-10299,TSA-MAD-L0149,TSF0FF348D,Windows,EliteBook 840 G11,Madrid,Sales,elena.aguirre@tailspin-aero.example,In use
+TSA-10300,TSA-MAD-L0150,TS740C5426,Windows,Latitude 7450,Madrid,Sales,adrian.serrano@tailspin-aero.example,In use
+TSA-10301,TSA-MAD-L0151,TSD76F9A17,Windows,Latitude 5550,Madrid,Sales,ruben.larrea@tailspin-aero.example,In use
+TSA-10302,TSA-MAD-L0152,TSE13FF322,Windows,Latitude 5550,Madrid,Sales,asier.serrano@tailspin-aero.example,In use
+TSA-10303,TSA-MAD-L0153,TSD220AFD8,Windows,Latitude 5550,Madrid,Sales,paula.urrutia@tailspin-aero.example,In use
+TSA-10304,TSA-MAD-L0154,TS10C791E1,Windows,Latitude 7450,Madrid,Sales,lucia.garmendia@tailspin-aero.example,In use
+TSA-10305,TSA-MAD-L0155,TSAB424FC2,Windows,Latitude 5550,Madrid,Sales,unai.ibarra@tailspin-aero.example,In use
+TSA-10306,TSA-MAD-L0156,TS62C2C9F0,Windows,Latitude 5550,Madrid,Sales,eider.lozano@tailspin-aero.example,In use
+TSA-10307,TSA-MAD-L0157,TSC297E623,Windows,EliteBook 840 G11,Madrid,Sales,lucia.lozano@tailspin-aero.example,In use
+TSA-10308,TSA-MAD-L0158,TSE45BCA6A,Windows,Latitude 7450,Madrid,Sales,clara.ortega@tailspin-aero.example,In use
+TSA-10309,TSA-MAD-L0159,TSE41B0AA2,Windows,Latitude 5550,Madrid,Sales,iker.arana@tailspin-aero.example,In use
+TSA-10310,TSA-MAD-L0160,TS18C3C38B,Windows,Latitude 7450,Madrid,Sales,ruben.urrutia@tailspin-aero.example,In use
+TSA-10311,TSA-MAD-L0161,TSDEE9FC16,Windows,Latitude 5550,Madrid,Sales,julia.ibarra@tailspin-aero.example,In use
+TSA-10312,TSA-MAD-L0162,TSB752D988,Windows,Latitude 5550,Madrid,Sales,eider.ibarra@tailspin-aero.example,In use
+TSA-10313,TSA-MAD-L0163,TS8B4D154C,Windows,EliteBook 840 G11,Madrid,Sales,paula.castro@tailspin-aero.example,Retired
+TSA-10314,TSA-MAD-L0164,TSF9629243,Windows,Latitude 7450,Madrid,Sales,mikel.moreno@tailspin-aero.example,Retired
+TSA-10315,TSA-MAD-L0165,TSE996DC88,Windows,Latitude 5550,Madrid,Sales,carmen.cabrera@tailspin-aero.example,In use
+TSA-10316,TSA-MAD-L0166,TS64128C63,Windows,EliteBook 840 G11,Madrid,Sales,asier.garmendia@tailspin-aero.example,In use
+TSA-10317,TSA-MAD-L0167,TSC99C89F6,Windows,Latitude 5550,Madrid,Sales,carlos.castro@tailspin-aero.example,In use
+TSA-10318,TSA-MAD-L0168,TS7AD747A9,Windows,EliteBook 840 G11,Madrid,Sales,elena.vidal@tailspin-aero.example,In use
+TSA-10319,TSA-MAD-L0169,TS422EC00F,Windows,Latitude 7450,Madrid,IT,carlos.romero@tailspin-aero.example,In use
+TSA-10320,TSA-MAD-L0170,TS7E3D3476,Windows,Latitude 7450,Madrid,IT,julia.arana@tailspin-aero.example,In use
+TSA-10321,TSA-MAD-L0171,TSD5794E5C,Windows,Latitude 5550,Madrid,IT,daniel.prieto@tailspin-aero.example,In use
+TSA-10322,TSA-MAD-L0172,TS3186A0D0,Windows,Latitude 7450,Madrid,IT,oscar.herrera@tailspin-aero.example,In use
+TSA-10323,TSA-MAD-L0173,TSA7C6A876,Windows,Latitude 5550,Madrid,IT,paula.garmendia@tailspin-aero.example,In use
+TSA-10324,TSA-MAD-L0174,TSF2825A19,Windows,Latitude 7450,Madrid,IT,adrian.navarro@tailspin-aero.example,In use
+TSA-10325,TSA-MAD-L0175,TS789578E7,Windows,Latitude 7450,Madrid,IT,diego.zubiri@tailspin-aero.example,In use
+TSA-10326,TSA-MAD-L0176,TSDF23EA7E,Windows,EliteBook 840 G11,Madrid,IT,hugo.molina@tailspin-aero.example,In use
+TSA-10327,TSA-MAD-L0177,TSD44E87D5,Windows,Latitude 5550,Madrid,IT,andrea.ruiz@tailspin-aero.example,In use
+TSA-10328,TSA-MAD-L0178,TS0C9215FE,Windows,EliteBook 840 G11,Madrid,IT,carmen.romero@tailspin-aero.example,In stock
+TSA-10329,TSA-MAD-L0179,TS2EF90DF2,Windows,EliteBook 840 G11,Madrid,IT,gorka.cabrera@tailspin-aero.example,In stock
+TSA-10330,TSA-MAD-L0180,TS73A98624,Windows,Latitude 5550,Madrid,IT,ane.serrano@tailspin-aero.example,In stock
+TSA-10331,TSA-MAD-M0001,C02B6EA6A3F,macOS,MacBook Pro 14,Madrid,Design,raul.zubiri@tailspin-aero.example,In use
+TSA-10332,TSA-MAD-M0002,C0283909087,macOS,MacBook Air 13,Madrid,Design,irene.molina@tailspin-aero.example,In use
+TSA-10333,TSA-MAD-M0003,C02BE02144B,macOS,MacBook Pro 14,Madrid,Design,maite.herrera@tailspin-aero.example,In use
+TSA-10334,TSA-MAD-M0004,C028D2FA9BD,macOS,MacBook Air 13,Madrid,Design,marta.herrera@tailspin-aero.example,In use
+TSA-10335,TSA-MAD-M0005,C024A6D2A01,macOS,MacBook Pro 14,Madrid,Design,laura.arana@tailspin-aero.example,In use
+TSA-10336,TSA-MAD-M0006,C0282571D3C,macOS,MacBook Pro 14,Madrid,Design,carlos.arana@tailspin-aero.example,In use
+TSA-10337,TSA-MAD-M0007,C02F6E57E1A,macOS,MacBook Air 13,Madrid,Design,alvaro.romero@tailspin-aero.example,In use
+TSA-10338,TSA-MAD-M0008,C023A01CF47,macOS,MacBook Air 13,Madrid,Design,adrian.etxeberria@tailspin-aero.example,In use
+TSA-10339,TSA-MAD-M0009,C02345E7B6C,macOS,MacBook Air 13,Madrid,Design,laura.cabrera@tailspin-aero.example,In use
+TSA-10340,TSA-MAD-M0010,C02F5F944DC,macOS,MacBook Air 13,Madrid,Design,javier.urrutia@tailspin-aero.example,In use
+TSA-10341,TSA-MAD-M0011,C02E7173677,macOS,MacBook Pro 14,Madrid,Design,carmen.garmendia@tailspin-aero.example,In use
+TSA-10342,TSA-MAD-M0012,C020F57719E,macOS,MacBook Pro 14,Madrid,Design,unai.aguirre@tailspin-aero.example,In use
+TSA-10343,TSA-MAD-M0013,C021828F03F,macOS,MacBook Pro 14,Madrid,Design,alba.herrera@tailspin-aero.example,In use
+TSA-10344,TSA-MAD-M0014,C0247B4FF07,macOS,MacBook Pro 14,Madrid,Design,javier.molina@tailspin-aero.example,In use
+TSA-10345,TSA-MAD-M0015,C0279AA5EAB,macOS,MacBook Air 13,Madrid,Design,adrian.ruiz@tailspin-aero.example,In use
+TSA-10346,TSA-MAD-M0016,C025E592547,macOS,MacBook Air 13,Madrid,Design,sergio.etxeberria@tailspin-aero.example,In use
+TSA-10347,TSA-MAD-M0017,C02D45706F3,macOS,MacBook Pro 14,Madrid,Design,nerea.lozano@tailspin-aero.example,In use
+TSA-10348,TSA-MAD-M0018,C02C5FD053D,macOS,MacBook Air 13,Madrid,Design,asier.vidal@tailspin-aero.example,In use
+TSA-10349,TSA-MAD-M0019,C0271FB5653,macOS,MacBook Air 13,Madrid,Design,hugo.cabrera@tailspin-aero.example,In use
+TSA-10350,TSA-MAD-M0020,C02FDB3F073,macOS,MacBook Pro 14,Madrid,Design,alba.iglesias@tailspin-aero.example,In use
+TSA-10351,TSA-MAD-M0021,C0299D2C90B,macOS,MacBook Air 13,Madrid,Design,alba.navarro@tailspin-aero.example,In use
+TSA-10352,TSA-MAD-M0022,C02C75011FA,macOS,MacBook Pro 14,Madrid,Design,leire.prieto@tailspin-aero.example,In use
+TSA-10353,TSA-MAD-M0023,C02FB74B601,macOS,MacBook Pro 14,Madrid,Design,sara.iglesias@tailspin-aero.example,In use
+TSA-10354,TSA-MAD-M0024,C02DDD8A3E3,macOS,MacBook Air 13,Madrid,Design,lucia.serrano@tailspin-aero.example,In use
+TSA-10355,TSA-MAD-M0025,C021A346AB9,macOS,MacBook Pro 14,Madrid,Design,alvaro.ortega@tailspin-aero.example,In use
+TSA-10356,TSA-MAD-M0026,C023C9A11F4,macOS,MacBook Pro 14,Madrid,Design,noelia.delgado@tailspin-aero.example,In use
+TSA-10357,TSA-MAD-M0027,C029A6C5A7D,macOS,MacBook Air 13,Madrid,Design,marta.garmendia@tailspin-aero.example,In use
+TSA-10358,TSA-MAD-M0028,C02B48A06AB,macOS,MacBook Air 13,Madrid,Design,elena.herrera@tailspin-aero.example,In use
+TSA-10359,TSA-MAD-M0029,C0202A8A285,macOS,MacBook Pro 14,Madrid,Design,andrea.lozano@tailspin-aero.example,In use
+TSA-10360,TSA-MAD-M0030,C0246CF5E69,macOS,MacBook Air 13,Madrid,Design,carmen.lozano@tailspin-aero.example,In use
+TSA-10361,TSA-MAD-M0031,C025EEB1A1C,macOS,MacBook Pro 14,Madrid,Marketing,lucia.moreno@tailspin-aero.example,In use
+TSA-10362,TSA-MAD-M0032,C02D6D0F343,macOS,MacBook Pro 14,Madrid,Marketing,javier.zubiri@tailspin-aero.example,In use
+TSA-10363,TSA-MAD-M0033,C02BBCFAA07,macOS,MacBook Air 13,Madrid,Marketing,ane.delgado@tailspin-aero.example,In use
+TSA-10364,TSA-MAD-M0034,C02909D2623,macOS,MacBook Pro 14,Madrid,Marketing,asier.ruiz@tailspin-aero.example,In use
+TSA-10365,TSA-MAD-M0035,C02885F90D9,macOS,MacBook Air 13,Madrid,Marketing,julia.iglesias@tailspin-aero.example,In use
+TSA-10366,TSA-MAD-M0036,C0295FFB57E,macOS,MacBook Air 13,Madrid,Marketing,oscar.urrutia@tailspin-aero.example,In use
+TSA-10367,TSA-MAD-M0037,C02C23124EB,macOS,MacBook Pro 14,Madrid,Marketing,hugo.iglesias@tailspin-aero.example,In use
+TSA-10368,TSA-MAD-M0038,C02385833B8,macOS,MacBook Pro 14,Madrid,Marketing,gorka.prieto@tailspin-aero.example,In use
+TSA-20001,iPhone-01,F6D3C3E86EC,iOS,iPhone 15,Madrid,Sales,marta.castro@tailspin-aero.example,In use
+TSA-20002,iPhone-02,FDC8CDC001C,iOS,iPhone 15,Madrid,Sales,andrea.campos@tailspin-aero.example,In use
+TSA-20003,iPhone-03,F3FBC3D1499,iOS,iPhone 15,Madrid,Sales,leire.ruiz@tailspin-aero.example,In use
+TSA-20004,iPhone-04,F4A8C2B084B,iOS,iPhone 15,Madrid,Sales,clara.molina@tailspin-aero.example,In use
+TSA-20005,iPhone-05,FC07E79D350,iOS,iPhone 15,Madrid,Sales,julia.urrutia@tailspin-aero.example,In use
+TSA-20006,iPhone-06,F44CF5A0D8A,iOS,iPhone 15,Madrid,Sales,andrea.larrea@tailspin-aero.example,In use
+TSA-20007,iPhone-07,F64665F8A7E,iOS,iPhone 15,Madrid,Sales,paula.moreno@tailspin-aero.example,In use
+TSA-20008,iPhone-08,FDB8CEBA10F,iOS,iPhone 15,Madrid,Sales,elena.garmendia@tailspin-aero.example,In use
+TSA-20009,iPhone-09,F0A6C45F8E4,iOS,iPhone 15,Madrid,Sales,alvaro.herrera@tailspin-aero.example,In use
+TSA-20010,iPhone-10,F9A6547FEB7,iOS,iPhone 15,Madrid,Sales,leire.etxeberria@tailspin-aero.example,In use

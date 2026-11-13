@@ -1,0 +1,11 @@
+control,name,covered,devices,coverage_pct
+FULL,Fully protected,341,366,93.2
+MDM,Managed in Intune,365,366,99.7
+COMPLIANT,Compliant in Intune,352,366,96.2
+CHECKIN,Checked in recently,362,366,98.9
+ENCRYPTED,Disk encrypted (BitLocker / FileVault),364,366,99.5
+KEY,BitLocker recovery key in Entra ID,309,313,98.7
+EDR,Onboarded and active in Defender for Endpoint,363,366,99.2
+AV,"Antivirus healthy (real-time, signatures, tamper)",312,317,98.4
+ADMIN,No standing local administrators,311,313,99.4
+OS,Supported operating system,354,360,98.3

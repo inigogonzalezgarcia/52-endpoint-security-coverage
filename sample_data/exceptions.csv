@@ -1,0 +1,7 @@
+Device,Control,Reason,Approver,Ticket,Expires
+TSA-BIO-W0013,OS,CNC cell controller software certified on Windows 10 only; paid extended updates,M. Arana (COO),RSK-2026-031,2027-10-13
+TSA-BIO-W0014,OS,CNC cell controller software certified on Windows 10 only; paid extended updates,M. Arana (COO),RSK-2026-031,2027-10-13
+TSA-BIO-W0015,OS,"Coordinate measuring machine PC, vendor upgrade in Q1 2027",M. Arana (COO),RSK-2026-034,2027-03-31
+TSA-BIO-L0098,OS,"Lab spectrometer PC, replacement ordered",P. Herrera (Quality),RSK-2026-012,2026-10-31
+TSA-MAD-L0001,ADMIN,Needs admin to install CAD plug-ins,,REQ-48121,2027-01-31
+TSA-BIO-W0012,EDR,"Isolated test bench, no internet by design; monitored by the bench owner",I. Zubiri (CISO),RSK-2026-027,2026-12-04
